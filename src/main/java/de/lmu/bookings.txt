@@ -1,0 +1,14 @@
+    {
+      "id": 1,
+      "customerName": "Jack",
+      "time": 1682349835,
+      "seats": 11, 12,
+      "movieId": 33
+    }
+    {
+      "id": 2,
+      "customerName": "Pax",
+      "time": 1682349835,
+      "seats": 13, 14,
+      "movieId": 33
+    }
