@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.lmu.service.SimpleBookingServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-24T18:25:41" hostname="DESKTOP-B41CTKN" time="1.228">
+  <properties/>
+  <testcase name="shouldGetAllBookings()" classname="de.lmu.service.SimpleBookingServiceTest" time="1.228"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
